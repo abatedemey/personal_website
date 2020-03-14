@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Abate De Mey
+tagline:          'Robotics Engineer'
+description:      'On a quest to befriend a robot'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Abate De Mey'
+  url:            https://www.linkedin.com/in/abate-de-mey/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+## My modifications:
+  #plugins:          [jekyll-paginate]
+
