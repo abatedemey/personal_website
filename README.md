@@ -116,3 +116,19 @@ Hyde has two branches, but only one is used for active development.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
+
+## Installation
+
+sudo apt-get install ruby ruby-all-dev
+
+# Ruby exports
+export GEM_HOME=$HOME/gems
+export PATH=$HOME/gems/bin:$PATH
+
+gem install jekyll-paginate
+https://jekyllrb.com/docs/
+
+## Developing
+jekyll build
+jekyll serve
