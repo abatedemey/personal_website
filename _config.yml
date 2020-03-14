@@ -25,6 +25,5 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
-## My modifications:
-  #plugins:          [jekyll-paginate]
+plugins:          [jekyll-paginate]
 
