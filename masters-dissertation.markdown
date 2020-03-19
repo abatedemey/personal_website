@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Masters Dissertation (University of Bristol)
+layout: page
+title: Masters Dissertation
 ---
 
 ### Problem
@@ -18,9 +18,20 @@ As a precursor to measuring the orientation of a joint, I had to be able to plac
 
 The test rig is made out of laser cut acrylic sheets, machined aluminum blocks, and off the shelf fasteners. The overall build is low cost, effective, and crucially, portable. Portability was key, as I took this test rig from the Bristol Robotics Lab in the UK, to the Masai Mara in Kenya, Midtown Manhatten, and the remote Rabbit Island of Cambodia.
 
-As for the spherical joint, I designed it in SolidWorks, embedding triangular light patterns at various positions within the socket portion of the joint. The light patterns are spaced such that a camera that is placed within the ball portion of the joint is able to view at least one light pattern at any orientation of the joint. The triangular patterns are made out of unique combinations of red, blue, and green. 
+
+![test-rig](/assets/dissertation-side-view.jpg)
+*Test rig for ball joint*
+
+The spherical joint is designed in SolidWorks, with a triangular light pattern embedded at various positions within the socket portion of the joint. The light patterns are spaced such that a camera that is placed within the ball portion of the joint is able to view at least one light pattern at any orientation of the joint. The triangular patterns are made out of unique combinations of red, blue, and green. 
 
 As the joint moves about, the camera in the ball views the positions of the light patterns in the socket, and send that data to an attached computer. The camera used is a 180 degree field of view fisheye lens using an equi-solid/equidistant mapping function. 
+
+
+![light-patterns](/assets/dissertation-light-pattern-view.jpg)
+*Light patterns embedded in socket*
+
+![light-patterns](/assets/dissertation-ball-view.jpg)
+*Camera embedded in ball joint*
 
 Computer vision algorithms use the position of the light patterns in the camera frame to calculate the ZYZ Euler angles of rotation of the joint. This allows the computer to measure the positional data of the joint using the incline/azimuth/twist naming conventinos. 
 
