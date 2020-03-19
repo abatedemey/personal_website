@@ -6,7 +6,6 @@ title: Driven by care needs, will it be the booming senior population that spurs
 
 <img class="alignleft size-full wp-image-40013" alt="Silhouettes wheelchair and crowds people" src="http://robohub.org/wp-content/uploads/2014/10/bigstock-Silhouettes-wheelchair-and-cro-63621802.jpg" width="900" height="636" />
 
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/308447815&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="166" frameborder="no" scrolling="no"></iframe>
 
 <a href="http://www.sheffield.ac.uk/psychology/staff/academic/tony-prescott">Tony Prescott</a>, Professor of Cognitive Neuroscience and Director of the Sheffield Center of Robotics believes that [tweetquote]the medical industry could be at the forefront of changing the public perception of robotics. Why?[/tweetquote] Because this is an industry that already understands how paramount it is, when dealing with the elderly, disabled and ill, to provide a service that is helpful, friendly and nonthreatening.<!--more-->
 
