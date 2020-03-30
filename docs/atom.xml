@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Abate</title>
- <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
- <link href="http://hyde.getpoole.com/"/>
- <updated>2020-03-29T22:34:25-07:00</updated>
- <id>http://hyde.getpoole.com</id>
+ <link href="https://abatedemey.github.io/personal_website/atom.xml" rel="self"/>
+ <link href="https://abatedemey.github.io/personal_website/"/>
+ <updated>2020-03-30T00:46:12-07:00</updated>
+ <id>https://abatedemey.github.io/personal_website</id>
  <author>
    <name>Abate De Mey</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Navigating with Microlocation</title>
-   <link href="http://hyde.getpoole.com/2020/03/06/Microlocation/"/>
+   <link href="https://abatedemey.github.io/personal_website/2020/03/06/Microlocation/"/>
    <updated>2020-03-06T00:00:00-08:00</updated>
-   <id>http://hyde.getpoole.com/2020/03/06/Microlocation</id>
+   <id>https://abatedemey.github.io/personal_website/2020/03/06/Microlocation</id>
    <content type="html">&lt;p&gt;Episode #306: &lt;a href=&quot;https://robohub.org/microlocation/&quot;&gt;Navigating with Microlocation&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://robohub.org/wp-content/uploads/2020/03/Humatics-microlocation.jpeg&quot; alt=&quot;&quot; class=&quot;aligncenter&quot; /&gt;&lt;/p&gt;
@@ -35,9 +35,9 @@ David co-founded Humatics with a mission to revolutionize how people and machine
  
  <entry>
    <title>On Demand Drone Deliveries</title>
-   <link href="http://hyde.getpoole.com/2019/03/05/On-Demand-Drone-Delivery/"/>
+   <link href="https://abatedemey.github.io/personal_website/2019/03/05/On-Demand-Drone-Delivery/"/>
    <updated>2019-03-05T00:00:00-08:00</updated>
-   <id>http://hyde.getpoole.com/2019/03/05/On-Demand-Drone-Delivery</id>
+   <id>https://abatedemey.github.io/personal_website/2019/03/05/On-Demand-Drone-Delivery</id>
    <content type="html">&lt;p&gt;Episode #281: &lt;a href=&quot;https://robohub.org/on-demand-drone-deliveries/&quot;&gt;On Demand Drone Deliveries&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/flytrex-drone-delivery.jpg&quot; alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-116848&quot; /&gt;&lt;/p&gt;
@@ -63,9 +63,9 @@ David co-founded Humatics with a mission to revolutionize how people and machine
  
  <entry>
    <title>Cozmo, by Anki</title>
-   <link href="http://hyde.getpoole.com/2018/05/29/cozmo-anki/"/>
+   <link href="https://abatedemey.github.io/personal_website/2018/05/29/cozmo-anki/"/>
    <updated>2018-05-29T00:00:00-07:00</updated>
-   <id>http://hyde.getpoole.com/2018/05/29/cozmo-anki</id>
+   <id>https://abatedemey.github.io/personal_website/2018/05/29/cozmo-anki</id>
    <content type="html">&lt;p&gt;Episode #220: &lt;a href=&quot;https://robohub.org/cozmo-by-anki/&quot;&gt;Cozmo, by Anki&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;alignncenter&quot; src=&quot;/assets/cozmo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -89,9 +89,9 @@ David co-founded Humatics with a mission to revolutionize how people and machine
  
  <entry>
    <title>Collaborative Systems for Drug Discovery</title>
-   <link href="http://hyde.getpoole.com/2018/02/18/collaborative-systems-for-drug-discovery/"/>
+   <link href="https://abatedemey.github.io/personal_website/2018/02/18/collaborative-systems-for-drug-discovery/"/>
    <updated>2018-02-18T00:00:00-08:00</updated>
-   <id>http://hyde.getpoole.com/2018/02/18/collaborative-systems-for-drug-discovery</id>
+   <id>https://abatedemey.github.io/personal_website/2018/02/18/collaborative-systems-for-drug-discovery</id>
    <content type="html">&lt;p&gt;Episode #220: &lt;a href=&quot;https://robohub.org/collaborative-systems-for-drug-discovery/&quot;&gt;Collaborative Systems for Drug Discovery&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;aligncenter size-large wp-image-97417&quot; src=&quot;/assets/highres-biosolutions.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -112,9 +112,9 @@ David co-founded Humatics with a mission to revolutionize how people and machine
  
  <entry>
    <title>Embedded Platform for SLAM</title>
-   <link href="http://hyde.getpoole.com/2018/01/20/embedded-platform-for-slam/"/>
+   <link href="https://abatedemey.github.io/personal_website/2018/01/20/embedded-platform-for-slam/"/>
    <updated>2018-01-20T00:00:00-08:00</updated>
-   <id>http://hyde.getpoole.com/2018/01/20/embedded-platform-for-slam</id>
+   <id>https://abatedemey.github.io/personal_website/2018/01/20/embedded-platform-for-slam</id>
    <content type="html">&lt;p&gt;Episode #220: &lt;a href=&quot;https://robohub.org/embedded-platform-for-slam/&quot;&gt;Embedded Platform for SLAM&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;alignnone size-large wp-image-95833&quot; src=&quot;/assets/perceptin.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -136,9 +136,9 @@ David co-founded Humatics with a mission to revolutionize how people and machine
  
  <entry>
    <title>Locus Robotics</title>
-   <link href="http://hyde.getpoole.com/2017/05/28/locus-robotics-rick-faulk/"/>
+   <link href="https://abatedemey.github.io/personal_website/2017/05/28/locus-robotics-rick-faulk/"/>
    <updated>2017-05-28T00:00:00-07:00</updated>
-   <id>http://hyde.getpoole.com/2017/05/28/locus-robotics-rick-faulk</id>
+   <id>https://abatedemey.github.io/personal_website/2017/05/28/locus-robotics-rick-faulk</id>
    <content type="html">&lt;p&gt;Episode #235: &lt;a href=&quot;https://robohub.org/locus-robotics/&quot;&gt;Locus Robotics&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;size-large wp-image-77490 aligncenter&quot; src=&quot;/assets/locus-robotics.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -150,9 +150,9 @@ David co-founded Humatics with a mission to revolutionize how people and machine
  
  <entry>
    <title>RoboUniverse Conference - Drones, AI, and 3D Printing</title>
-   <link href="http://hyde.getpoole.com/2017/02/19/Robouniverse-conference-Drone-AI-3D-printing/"/>
+   <link href="https://abatedemey.github.io/personal_website/2017/02/19/Robouniverse-conference-Drone-AI-3D-printing/"/>
    <updated>2017-02-19T00:00:00-08:00</updated>
-   <id>http://hyde.getpoole.com/2017/02/19/Robouniverse-conference-Drone-AI-3D-printing</id>
+   <id>https://abatedemey.github.io/personal_website/2017/02/19/Robouniverse-conference-Drone-AI-3D-printing</id>
    <content type="html">&lt;p&gt;Episode #220: &lt;a href=&quot;http://robohub.org/robouniverse-conference-drones-ai-and-3d-printing-part-2-of-2/&quot;&gt;Robouniverse Conference - Drones, AI, and 3D Printing&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-72095&quot; src=&quot;/assets/brain-corp.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -180,9 +180,9 @@ David co-founded Humatics with a mission to revolutionize how people and machine
  
  <entry>
    <title>RoboUniverse Conference - Agricultural Robotics</title>
-   <link href="http://hyde.getpoole.com/2017/02/04/RoboUniverse-conference-agricultural-robotics/"/>
+   <link href="https://abatedemey.github.io/personal_website/2017/02/04/RoboUniverse-conference-agricultural-robotics/"/>
    <updated>2017-02-04T00:00:00-08:00</updated>
-   <id>http://hyde.getpoole.com/2017/02/04/RoboUniverse-conference-agricultural-robotics</id>
+   <id>https://abatedemey.github.io/personal_website/2017/02/04/RoboUniverse-conference-agricultural-robotics</id>
    <content type="html">&lt;p&gt;Episode #220: &lt;a href=&quot;http://robohub.org/robouniverse-conference-agricultural-robotics-part-1-of-2/&quot;&gt;Robouniverse Conference - Agricultural Robotics&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/biotac.jpg&quot; alt=&quot;biotac&quot; /&gt;
@@ -210,9 +210,9 @@ David co-founded Humatics with a mission to revolutionize how people and machine
  
  <entry>
    <title>Actuation for Robotic Fingers</title>
-   <link href="http://hyde.getpoole.com/2016/12/11/actuation-for-robotic-fingers/"/>
+   <link href="https://abatedemey.github.io/personal_website/2016/12/11/actuation-for-robotic-fingers/"/>
    <updated>2016-12-11T00:00:00-08:00</updated>
-   <id>http://hyde.getpoole.com/2016/12/11/actuation-for-robotic-fingers</id>
+   <id>https://abatedemey.github.io/personal_website/2016/12/11/actuation-for-robotic-fingers</id>
    <content type="html">&lt;p&gt;Episode #223: &lt;a href=&quot;http://robohub.org/actuation-for-robotic-fingers/&quot;&gt;Actuation for Robotic Fingers&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;/assets/smac.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -234,9 +234,9 @@ David co-founded Humatics with a mission to revolutionize how people and machine
  
  <entry>
    <title>Teach Xemo to Move</title>
-   <link href="http://hyde.getpoole.com/2016/10/31/teach-xemo-to-move/"/>
+   <link href="https://abatedemey.github.io/personal_website/2016/10/31/teach-xemo-to-move/"/>
    <updated>2016-10-31T00:00:00-07:00</updated>
-   <id>http://hyde.getpoole.com/2016/10/31/teach-xemo-to-move</id>
+   <id>https://abatedemey.github.io/personal_website/2016/10/31/teach-xemo-to-move</id>
    <content type="html">&lt;p&gt;Episode #220: &lt;a href=&quot;http://robohub.org/teach-xemo-to-move/&quot;&gt;Teach Xemo to Move&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;/assets/Xemo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -253,9 +253,9 @@ David co-founded Humatics with a mission to revolutionize how people and machine
  
  <entry>
    <title>Evolutionary Approaches for Flying Robots</title>
-   <link href="http://hyde.getpoole.com/2016/05/01/Evolutionary-approaches-for-flying-robots/"/>
+   <link href="https://abatedemey.github.io/personal_website/2016/05/01/Evolutionary-approaches-for-flying-robots/"/>
    <updated>2016-05-01T00:00:00-07:00</updated>
-   <id>http://hyde.getpoole.com/2016/05/01/Evolutionary-approaches-for-flying-robots</id>
+   <id>https://abatedemey.github.io/personal_website/2016/05/01/Evolutionary-approaches-for-flying-robots</id>
    <content type="html">&lt;p&gt;Episode #207: &lt;a href=&quot;http://robohub.org/robots-evolutionary-approaches-for-flying-robots/&quot;&gt;Evolutionary Approaches for Flying Robots&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/guido-de-coon.jpg&quot; alt=&quot;Guido De Croon&quot; /&gt;&lt;/p&gt;
@@ -268,9 +268,9 @@ David co-founded Humatics with a mission to revolutionize how people and machine
  
  <entry>
    <title>Driven by care needs, will it be the booming senior population that spurs wider acceptance of robots?</title>
-   <link href="http://hyde.getpoole.com/2014/10/19/elderly-acceptance-of-robotics/"/>
+   <link href="https://abatedemey.github.io/personal_website/2014/10/19/elderly-acceptance-of-robotics/"/>
    <updated>2014-10-19T00:00:00-07:00</updated>
-   <id>http://hyde.getpoole.com/2014/10/19/elderly-acceptance-of-robotics</id>
+   <id>https://abatedemey.github.io/personal_website/2014/10/19/elderly-acceptance-of-robotics</id>
    <content type="html">&lt;p&gt;&lt;img class=&quot;alignleft size-full wp-image-40013&quot; alt=&quot;Silhouettes wheelchair and crowds people&quot; src=&quot;http://robohub.org/wp-content/uploads/2014/10/bigstock-Silhouettes-wheelchair-and-cro-63621802.jpg&quot; width=&quot;900&quot; height=&quot;636&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.sheffield.ac.uk/psychology/staff/academic/tony-prescott&quot;&gt;Tony Prescott&lt;/a&gt;, Professor of Cognitive Neuroscience and Director of the Sheffield Center of Robotics believes that [tweetquote]the medical industry could be at the forefront of changing the public perception of robotics. Why?[/tweetquote] Because this is an industry that already understands how paramount it is, when dealing with the elderly, disabled and ill, to provide a service that is helpful, friendly and nonthreatening.&lt;!--more--&gt;&lt;/p&gt;
