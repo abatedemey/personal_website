@@ -10,7 +10,6 @@ relative_permalinks: false
 title:            Abate
 tagline:          'Robotics Engineer'
 description:      'A.'
-url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
@@ -22,8 +21,5 @@ paginate_path:   "/robohub_posts/page:num/"
 
 # Custom vars
 version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
 
 plugins:          [jekyll-paginate]
