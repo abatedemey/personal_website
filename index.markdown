@@ -1,16 +1,12 @@
 ---
-layout: default
-title: Home
+layout: home_page
+title: HOME
 ---
-
-# Hi, I'm Abate.
-<br>
-<img  style="float: left; margin-right:30px;" class="alignleft" src="/assets/headshot-resize.jpg" alt="" width="300" />
 
 I am passionate about Robotics, Internet of things, and computer vision systems. I geek out about the interface between hardware and software.
 
-While doing my Masters in Robotics at the University of Bristol (UK), I got an opportunity to volunteer at the [Robohub Podcast](https://robohub.org/podcast/). Since then, I have been conducting interviews with innovators in Robotics across the world.
+I spent the past four years as the Founding Hardware Engineer at FieldVision. We built a camera that revolutionized the filming of sports. Read more about it [here](/F1_camera).
 
-Nowadays, you can find me in Los Angeles, enjoying the warm weather.
+While doing my Masters in Robotics, I got an opportunity to volunteer at the [Robohub Podcast](https://robohub.org/podcast/). Since then, I have been conducting interviews with innovators in Robotics across the world.
 
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/abate-de-mey/)
+Nowadays, you can find me in Los Angeles, working as the Hardware Lead at BallerTV.
