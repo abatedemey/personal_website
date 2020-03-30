@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Abate</title>
+ <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://hyde.getpoole.com/"/>
+ <updated>2020-03-29T22:34:25-07:00</updated>
+ <id>http://hyde.getpoole.com</id>
+ <author>
+   <name>Abate De Mey</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Navigating with Microlocation</title>
+   <link href="http://hyde.getpoole.com/2020/03/06/Microlocation/"/>
+   <updated>2020-03-06T00:00:00-08:00</updated>
+   <id>http://hyde.getpoole.com/2020/03/06/Microlocation</id>
+   <content type="html">&lt;p&gt;Episode #306: &lt;a href=&quot;https://robohub.org/microlocation/&quot;&gt;Navigating with Microlocation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://robohub.org/wp-content/uploads/2020/03/Humatics-microlocation.jpeg&quot; alt=&quot;&quot; class=&quot;aligncenter&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/784992817&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;David Mindell, co-founder of Humatics, discusses a system they developed that can detect the location of a special tracking device down to a centimeter level accuracy. They are currently developing a device to detect location down to a millimeter level accuracy. This solves a core problem of localization for robots. David discusses the technology behind these products and their applications.&lt;/p&gt;
+
+&lt;h3&gt;David Mindell&lt;/h3&gt;
+&lt;p&gt;&lt;img style=&quot;float: left; margin-right:30px;&quot; src=&quot;/assets/david-mindell.jpg&quot; alt=&quot;&quot; /&gt;
+David co-founded Humatics with a mission to revolutionize how people and machines locate, navigate and collaborate. He is a professor of Aeronautics and Astronautics at MIT, as well as the Dibner Professor of the History of Engineering and Manufacturing, and Chair of the MIT Task Force on the Work of the Future. He has participated in more than 25 oceanographic expeditions and is an inventor on 8 patents in autonomous helicopters, AI-assisted piloting, and RF navigation.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>On Demand Drone Deliveries</title>
+   <link href="http://hyde.getpoole.com/2019/03/05/On-Demand-Drone-Delivery/"/>
+   <updated>2019-03-05T00:00:00-08:00</updated>
+   <id>http://hyde.getpoole.com/2019/03/05/On-Demand-Drone-Delivery</id>
+   <content type="html">&lt;p&gt;Episode #281: &lt;a href=&quot;https://robohub.org/on-demand-drone-deliveries/&quot;&gt;On Demand Drone Deliveries&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/flytrex-drone-delivery.jpg&quot; alt=&quot;&quot; class=&quot;aligncenter size-full wp-image-116848&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/585165192&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Yariv Bash, CEO of Flytrex, discusses how Flytrex works in cooperation with local businesses in a city to use drones to rapidly transport goods in a local region. A practical application is the delivery of food from local restaurants. Yariv discusses Flytrex’s plans for using their USD$7.5 million series B round of funding.&lt;/p&gt;
+
+&lt;h3&gt;Yariv Bash&lt;/h3&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: left; margin-right:30px;&quot; class=&quot;size-full wp-image-116849 alignleft&quot; src=&quot;/assets/yariv-bash.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;200&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yariv Bash is the CEO of &lt;a href=&quot;https://www.flytrex.com/&quot;&gt;Flytrex&lt;/a&gt;, a drone technology company providing comprehensive, autonomous drone delivery systems that enable any business, from SMBs to e-commerce giants, to integrate instant, autonomous on-demand drone delivery into their offering. Flytrex is an end-to-end drone logistics service.&lt;/p&gt;
+
+&lt;ul&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=nIKSqPKBDYU&quot;&gt;Flytrex 2018 Recap&lt;/a&gt;&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ixP6zOLu3Gs&quot;&gt;Flytrex Launches Drone Delivery in Reykjavík, Iceland&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cozmo, by Anki</title>
+   <link href="http://hyde.getpoole.com/2018/05/29/cozmo-anki/"/>
+   <updated>2018-05-29T00:00:00-07:00</updated>
+   <id>http://hyde.getpoole.com/2018/05/29/cozmo-anki</id>
+   <content type="html">&lt;p&gt;Episode #220: &lt;a href=&quot;https://robohub.org/cozmo-by-anki/&quot;&gt;Cozmo, by Anki&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignncenter&quot; src=&quot;/assets/cozmo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/450614919&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I interview Andrew Neil Stein from &lt;a href=&quot;https://www.anki.com/en-us&quot;&gt;Anki&lt;/a&gt; about their engaging robot, &lt;a href=&quot;https://www.anki.com/en-us/cozmo&quot;&gt;Cozmo&lt;/a&gt;. Cozmo is a lifelike, palm sized robot that recognizes people and objects around him and plays games with them. Cozmo is unique in that a large amount of development has been implemented to make his animations and behavior feel natural, in addition to focusing on classical robotic elements such as computer vision and object manipulation.&lt;/p&gt;
+
+&lt;h3&gt;Andrew Neil Stein&lt;/h3&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: left; margin-right:30px;&quot; src=&quot;/assets/andrew-neil-stein.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/andrewneilstein/&quot;&gt;Andrew Neil Stein&lt;/a&gt; is the Head of Robotics &amp;amp; AI at Anki, where he began working on the Cozmo project more than four years ago as the team’s first member. He has contributed to several core systems of the product, including vision, cube manipulation, animation streaming, localization, high-level behaviors, and low-level actions.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Collaborative Systems for Drug Discovery</title>
+   <link href="http://hyde.getpoole.com/2018/02/18/collaborative-systems-for-drug-discovery/"/>
+   <updated>2018-02-18T00:00:00-08:00</updated>
+   <id>http://hyde.getpoole.com/2018/02/18/collaborative-systems-for-drug-discovery</id>
+   <content type="html">&lt;p&gt;Episode #220: &lt;a href=&quot;https://robohub.org/collaborative-systems-for-drug-discovery/&quot;&gt;Collaborative Systems for Drug Discovery&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;aligncenter size-large wp-image-97417&quot; src=&quot;/assets/highres-biosolutions.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/401320575&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot; width=&quot;100%&quot; height=&quot;166&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I interview Peter Harris from HighRes Biosolutions about &lt;a href=&quot;https://content.yudu.com/web/fiqy/0A42big/drugdiscoveryfall17/html/index.html?page=64&amp;amp;origin=reader&quot;&gt;automation in the field of drug discovery&lt;/a&gt;. At HighRes Biosolutions they are developing modular robotic systems that work alongside scientists to automate laboratory tasks. Because the requirements of each biomedical research laboratory are so varied, the robotic systems are specifically tailored to meet the requirements of each lab.&lt;/p&gt;
+
+&lt;h3&gt;Peter Harris&lt;/h3&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: left; margin-right:30px;&quot; src=&quot;/assets/peter-harris.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;200&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Peter Harris is the CEO of &lt;a href=&quot;http://highresbio.com/&quot;&gt;HighRes Biosolutions&lt;/a&gt;. Prior to HighRes, Peter was VP and Managing Director at Axel Johnson, Inc. He spent most his career as the President &amp;amp; CEO of Cadence, Inc., a medical device manufacturing and engineering firm enabling companies to bring devices to market faster.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Embedded Platform for SLAM</title>
+   <link href="http://hyde.getpoole.com/2018/01/20/embedded-platform-for-slam/"/>
+   <updated>2018-01-20T00:00:00-08:00</updated>
+   <id>http://hyde.getpoole.com/2018/01/20/embedded-platform-for-slam</id>
+   <content type="html">&lt;p&gt;Episode #220: &lt;a href=&quot;https://robohub.org/embedded-platform-for-slam/&quot;&gt;Embedded Platform for SLAM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-large wp-image-95833&quot; src=&quot;/assets/perceptin.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/386581616&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot; width=&quot;100%&quot; height=&quot;166&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Zhe Zhang from Perceptin discusses the embedded platforms they are building for robots to do Simultaneous Localization and Mapping (SLAM) algorithms in real time. Zhe explains the methods they incorporate such as sensor fusion and hardware synchronization to make a highly accurate SLAM platform for IOT, consumer, and automotive grade robots.&lt;/p&gt;
+
+&lt;h3&gt;Zhe Zhang&lt;/h3&gt;
+
+&lt;p&gt;&lt;img style=&quot;float: left; margin-right:30px;&quot; src=&quot;/assets/zhe-zhang.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;200&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Zhe is the co-founder and CEO of &lt;a href=&quot;https://www.perceptin.io&quot;&gt;PerceptIn&lt;/a&gt;. Prior to founding PerceptIn, he worked at Magic Leap in Silicon Valley and prior to that he worked for five years at Microsoft. Zhang has a PhD in Robotics from the State University of New York and an undergraduate degree from Tsinghua University.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Locus Robotics</title>
+   <link href="http://hyde.getpoole.com/2017/05/28/locus-robotics-rick-faulk/"/>
+   <updated>2017-05-28T00:00:00-07:00</updated>
+   <id>http://hyde.getpoole.com/2017/05/28/locus-robotics-rick-faulk</id>
+   <content type="html">&lt;p&gt;Episode #235: &lt;a href=&quot;https://robohub.org/locus-robotics/&quot;&gt;Locus Robotics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;size-large wp-image-77490 aligncenter&quot; src=&quot;/assets/locus-robotics.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/324943131&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot; width=&quot;100%&quot; height=&quot;166&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Rick Faulk, CEO of &lt;a href=&quot;http://www.locusrobotics.com/&quot;&gt;Locus Robotics&lt;/a&gt;, talks with me about warehouse automation with collaborative robots. At Locus Robotics, they increase the productivity of workers in e-commerce warehouses by using robot helpers to transport items that are passed to them by the workers. The lightweight autonomous robots move at a similar pace to their co-workers, use LIDAR and computer vision to detect people and avoid collisions. This allows people to share the warehouse floor with the robots. The collaborative robotic system is lightweight and can be adapted to existing warehouses with minimal alterations. Check out their &lt;a href=&quot;https://www.youtube.com/watch?v=rGeu76wXtnk&quot;&gt;video&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RoboUniverse Conference - Drones, AI, and 3D Printing</title>
+   <link href="http://hyde.getpoole.com/2017/02/19/Robouniverse-conference-Drone-AI-3D-printing/"/>
+   <updated>2017-02-19T00:00:00-08:00</updated>
+   <id>http://hyde.getpoole.com/2017/02/19/Robouniverse-conference-Drone-AI-3D-printing</id>
+   <content type="html">&lt;p&gt;Episode #220: &lt;a href=&quot;http://robohub.org/robouniverse-conference-drones-ai-and-3d-printing-part-2-of-2/&quot;&gt;Robouniverse Conference - Drones, AI, and 3D Printing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-72095&quot; src=&quot;/assets/brain-corp.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/308447815&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot; width=&quot;100%&quot; height=&quot;166&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I interview three speakers from the Artificial Intelligence and Drone tracks at RoboUniverse San Diego and the Inside 3D Printing Conference.&lt;/p&gt;
+
+&lt;h3&gt;Dr. Douglas Stow&lt;/h3&gt;
+&lt;p&gt;Dr. Douglas Stow discusses the &lt;a href=&quot;http://geog.sdsu.edu/Research/Projects/TS_Detection/&quot;&gt;use of drones&lt;/a&gt; in analyzing large scale changes over time in terrains, and its applications in determining the extent of damage after a natural disaster.&lt;/p&gt;
+
+&lt;p&gt;Dr. Stow is a Professor of Geography at San Diego State University (SDSU) and has been on the faculty for 33 years. He has worked in the remote sensing field for almost 40 years and his research focuses on multitemporal image analysis.&lt;/p&gt;
+
+&lt;h3&gt;Dr. Eugene Izhikevich&lt;/h3&gt;
+&lt;p&gt;Dr. Eugene Izhikevich discusses how Brain Corporation converts manually driven industrial machines into &lt;a href=&quot;https://www.youtube.com/watch?v=-4QkyHapXSA&quot;&gt;autonomous robots&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Known for his contributions to the theory of spiking networks, in 2005 Dr. Izhikevich implemented the world’s largest thalamo-cortical model. It simulated one hundred billion neurons and one quadrillion synapses - the same number as the human brain.&lt;/p&gt;
+
+&lt;h3&gt;Cullen Hilkene&lt;/h3&gt;
+&lt;p&gt;Cullen Hilkene discusses how &lt;a href=&quot;https://www.youtube.com/watch?v=L-5NS1bCGZk&quot;&gt;3Diligent&lt;/a&gt; optimizes the work flow and communication layer between a diverse set of 3D print vendors and their customers.&lt;/p&gt;
+
+&lt;p&gt;Cullen Hilkene is CEO of 3Diligent, “the 3D Printing Partner for Every Business.” 3Diligent is a web-based rapid manufacturing service described as “Uber meets Amazon for 3D Printing, CNC Machining, and Molding and Casting.”&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>RoboUniverse Conference - Agricultural Robotics</title>
+   <link href="http://hyde.getpoole.com/2017/02/04/RoboUniverse-conference-agricultural-robotics/"/>
+   <updated>2017-02-04T00:00:00-08:00</updated>
+   <id>http://hyde.getpoole.com/2017/02/04/RoboUniverse-conference-agricultural-robotics</id>
+   <content type="html">&lt;p&gt;Episode #220: &lt;a href=&quot;http://robohub.org/robouniverse-conference-agricultural-robotics-part-1-of-2/&quot;&gt;Robouniverse Conference - Agricultural Robotics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/biotac.jpg&quot; alt=&quot;biotac&quot; /&gt;
+&lt;img src=&quot;/assets/softrobotics.jpg&quot; alt=&quot;softroboticsinc&quot; /&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/306122533&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot; width=&quot;100%&quot; height=&quot;166&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I interview two speakers from the Agricultural track of the RoboUniverse 2016 conference in San Diego: Dan Harburg of Soft Robotics Inc. and Matthew Borzage of BioTac. Borzage and Harburg discuss their distinct approaches to advancing gripping technology in Agriculture. Borzage stresses the importance of tactile sensing while Harburg pushes for low cost, soft grippers with no on-board sensors.&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;h3&gt;Dan Harburg&lt;/h3&gt;
+
+&lt;p&gt;Dan Harburg is the Director of Business Development at &lt;a href=&quot;http://www.softroboticsinc.com/&quot;&gt;Soft Robotics Inc.&lt;/a&gt;, a venture-backed startup company developing a soft end-of-arm tool for the food industry.&lt;/p&gt;
+
+&lt;h3&gt;Matthew Borzage&lt;/h3&gt;
+
+&lt;p&gt;Matthew Borzage is a co-founder and the Head of Business Development for &lt;a href=&quot;https://www.syntouchinc.com/&quot;&gt;SynTouch Inc.&lt;/a&gt;. Borzage has a background in biomedical and medical device engineering and sales.&lt;/p&gt;
+
+&lt;h3&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=o8DoSvv4P3w&quot;&gt;Bakery Automation with a Soft Touch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.syntouchinc.com/biomimetic-process/&quot;&gt;Biomimetic Design of BioTac&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Actuation for Robotic Fingers</title>
+   <link href="http://hyde.getpoole.com/2016/12/11/actuation-for-robotic-fingers/"/>
+   <updated>2016-12-11T00:00:00-08:00</updated>
+   <id>http://hyde.getpoole.com/2016/12/11/actuation-for-robotic-fingers</id>
+   <content type="html">&lt;p&gt;Episode #223: &lt;a href=&quot;http://robohub.org/actuation-for-robotic-fingers/&quot;&gt;Actuation for Robotic Fingers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;/assets/smac.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/297410127&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot; width=&quot;100%&quot; height=&quot;166&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I interview Edward Neff, founder of &lt;a href=&quot;www.smac-mca.com&quot;&gt;SMAC Corporation&lt;/a&gt;. Mr. Neff discusses breakthroughs in his company that allow them to develop linear actuators compact enough to be used to actuate robotic fingers. Companies like Apple and Samsung push for the development of robotic fingers to perform lifelike tests on their phones.&lt;/p&gt;
+
+&lt;p&gt;The robotic fingers developed using SMAC’s linear servo motors simulate a button press on a screen by employing a strong downwards force, as well as small sideways forces tangential to the screen. This mimics a realistic way that people interact with their touchscreens. The robotic fingers can also gently bump into surfaces, pull, and push objects. Other applications for these fingers include electronic circuit board assembly, and screwing bottle caps onto bottles.&lt;/p&gt;
+
+&lt;h4&gt;Videos&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/S8Y0bGsLCvo&quot;&gt;Robotic Finger using a Smart Phone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/G13-5D-C5sM&quot;&gt;Robotic Finger at the Tokyo Robot Show&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/eZagN2eu164&quot;&gt;Robotic Finger vs Human Finger&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/VDQydFc45_o&quot;&gt;Smart Assembly Video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Teach Xemo to Move</title>
+   <link href="http://hyde.getpoole.com/2016/10/31/teach-xemo-to-move/"/>
+   <updated>2016-10-31T00:00:00-07:00</updated>
+   <id>http://hyde.getpoole.com/2016/10/31/teach-xemo-to-move</id>
+   <content type="html">&lt;p&gt;Episode #220: &lt;a href=&quot;http://robohub.org/teach-xemo-to-move/&quot;&gt;Teach Xemo to Move&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;/assets/Xemo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/290722073&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot; width=&quot;100%&quot; height=&quot;166&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;In this episode, I interview &lt;a href=&quot;http://blog.xemo.io/author/jeff/&quot;&gt;Jeff Sprenger&lt;/a&gt;, founder of the startup &lt;a href=&quot;http://www.xemo.io/&quot;&gt;Xemory&lt;/a&gt; in Vermont, USA. At Xemory they are developing a robot simulation game called Xemo, where players learn to animate virtual robots.&lt;/p&gt;
+
+&lt;p&gt;Complex motion at each joint is broken down into its more fundamental components, called degrees of freedom. Players are faced with the challenge of controlling the several degrees of freedom to recreate lifelike motions such as crawling, walking, jumping, and even dancing. These challenges are similar to the ones faced by roboticists trying to develop lifelike, robust and balanced motions for legged robots.&lt;/p&gt;
+
+&lt;p&gt;Sprenger discusses the unique ways different age groups and genders interact with the software. Through incorporating feedback from the students, Sprenger adds new activities and challenges to keep students engaged and challenged, improving their understanding of robot control.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Evolutionary Approaches for Flying Robots</title>
+   <link href="http://hyde.getpoole.com/2016/05/01/Evolutionary-approaches-for-flying-robots/"/>
+   <updated>2016-05-01T00:00:00-07:00</updated>
+   <id>http://hyde.getpoole.com/2016/05/01/Evolutionary-approaches-for-flying-robots</id>
+   <content type="html">&lt;p&gt;Episode #207: &lt;a href=&quot;http://robohub.org/robots-evolutionary-approaches-for-flying-robots/&quot;&gt;Evolutionary Approaches for Flying Robots&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/guido-de-coon.jpg&quot; alt=&quot;Guido De Croon&quot; /&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/289965233&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot; width=&quot;100%&quot; height=&quot;166&quot; frameborder=&quot;no&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I interview &lt;a href=&quot;http://www.bene-guido.eu/wordpress/&quot;&gt;Guido De Croon&lt;/a&gt; about Evolutionary Robotics and its use to design behaviors for flying robots. We discuss a &lt;a href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7412843&amp;amp;filter%3DAND%28p_IS_Number%3A7412841%29&quot;&gt;recent paper&lt;/a&gt; by Kirk Schepe et al., in which the DelFly UAV robot learns to fly through an open window when trapped inside a room thanks to a controller optimized using a Genetic Algorithm. The controller is programmed using a Behavior Tree Framework, which is more intuitive and adaptable than the traditional Neural Network framework. This helps the user to manually adapt the controller to handle the differences between the simulation and the real world. Guido then discusses the challenges and benefits of using Evolutionary Robotics to learn robot behaviors.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Driven by care needs, will it be the booming senior population that spurs wider acceptance of robots?</title>
+   <link href="http://hyde.getpoole.com/2014/10/19/elderly-acceptance-of-robotics/"/>
+   <updated>2014-10-19T00:00:00-07:00</updated>
+   <id>http://hyde.getpoole.com/2014/10/19/elderly-acceptance-of-robotics</id>
+   <content type="html">&lt;p&gt;&lt;img class=&quot;alignleft size-full wp-image-40013&quot; alt=&quot;Silhouettes wheelchair and crowds people&quot; src=&quot;http://robohub.org/wp-content/uploads/2014/10/bigstock-Silhouettes-wheelchair-and-cro-63621802.jpg&quot; width=&quot;900&quot; height=&quot;636&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sheffield.ac.uk/psychology/staff/academic/tony-prescott&quot;&gt;Tony Prescott&lt;/a&gt;, Professor of Cognitive Neuroscience and Director of the Sheffield Center of Robotics believes that [tweetquote]the medical industry could be at the forefront of changing the public perception of robotics. Why?[/tweetquote] Because this is an industry that already understands how paramount it is, when dealing with the elderly, disabled and ill, to provide a service that is helpful, friendly and nonthreatening.&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaking this week at &lt;a href=&quot;https://www.re-work.co/workshops/future-of-robotics&quot;&gt;RE.WORK&lt;/a&gt; – an event that explores the challenges of commercializing robotics – Prescott recalled the fear people had in the 90s about the coming of the Internet. Similarly, he said, reporters often ask him: “When will robots take over the world?” The question has perhaps become a cliché among roboticists, but in his presentation (aptly titled “Robots that know themselves will make better carers”) Prescott suggested that much can be learned from neuroscience and psychology to improve the safety and effectiveness – and by extension the public perception – of human-robot interaction.&lt;/p&gt;
+
+&lt;div class=&quot;sprfocus10&quot;&gt;&lt;a class=&quot;sprfocusl&quot; href=&quot;/tag/robots-for-eldercare/&quot;&gt; &lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;The aging population is increasing rapidly, and there are not enough caregivers to satisfy the growing demand. It is projected that &lt;a href=&quot;http://www.fitforworkeurope.eu/chronic-conditions.htm&quot;&gt;by 2060, there will be one dependent person for every working person in the EU&lt;/a&gt;. Per visit, caretakers have limited time in which to interact the elderly people in their care, and time must be divided between aiding with personal hygiene tasks, ordering/preparing food, and one-on-one conversation time. As such, seniors must often make difficult decisions to prioritize the services they wish to receive from caregivers.&lt;/p&gt;
+
+&lt;p&gt;Prescott said that personal robots could aid seniors with time consuming household tasks such as making a pot of tea, reaching for the salt, opening a jar, or microwaving food – tasks that could be frustrating if you have to wait around for help. Personal hygiene tasks such as showering or using the toilet can create an embarrassing dynamic between the elderly and the caretaker, and so also make ideal tasks for robot care assistants.&lt;/p&gt;
+
+&lt;p&gt;Prescott points out that the role of a robot should be to assist the senior and the caregiver, not to take over.  “Robots can help caregivers, not by replacing them, (but by working with them).”  With the aid of personal robots, caretakers could spend more time engaging in one-on-one conversation with the elderly, providing valuable social interaction.&lt;/p&gt;
+
+&lt;p&gt;And yet we cannot stop people from getting personally attached to the items they own, Prescott explains. People like to glue fur to their Roombas to make them feel more like pets, and robot companions like the Paro have been shown to induce relaxation, reduce stress, and stimulate communication between patients and caregivers. The important distinction to remember, suggested Prescott, is that the companionship people feel toward their robots is more in line with how they feel toward their pets, and the need for human companionship will always remain critical.&lt;/p&gt;
+
+&lt;p&gt;If we can learn to design robots that can work as part of a care team, public perception of robots is sure to change.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

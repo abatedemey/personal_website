@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title> F1 CAMERA &middot; Abate </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat|Work+Sans&display=swap" rel="stylesheet">
+
+
+  <!-- Enable column creation-->
+  <style>
+  * {
+    box-sizing: border-box;
+  }
+
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  </style>
+</head>
+
+
+  <body class="theme-base-1">
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky-top">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          A.
+        </a>
+      </h1>
+      <!-- <font size="3">A.</font> -->
+    </div>
+
+    <nav class="sidebar-nav">
+      <!-- <a class="sidebar-nav-item" href="/">HOME</a>-->
+
+      
+
+      
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item active" href="/F1_camera/">F1 CAMERA</a>
+          
+        
+      
+        
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/masters-dissertation/">DISSERTATION</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/robohub_posts/">ROBOHUB</a>
+          
+        
+      
+
+    </nav>
+  </div>
+
+  <div class="container sidebar-sticky-bottom">
+      <p>
+      <a href="https://www.linkedin.com/in/abate-de-mey/" target="_blank">
+      <img border="0" alt="LinkedIn"  src="/assets/linkedin.png" width="25">
+      </a>
+      </p>
+  </div>
+
+</div>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">F1 CAMERA</h1>
+  <p><img src="/assets/f1-camera.png" alt="" /></p>
+
+<h2 id="behind-the-f1">Behind the F1</h2>
+
+<p>After I completed my Masters degree, I moved back to my apartment in New York City and was hungry to work on autonomous systems. While scouring Angellist for interesting startups, I found two would be co-founders, Kav and Andy, who posted an idea that they had for automating the filming of soccer games.</p>
+
+<p>Both of them are avid soccer players and understood the challenge in getting reliable video of their games. This challenge is felt most acutely in youth sports, where reliable video coverage is not just a nice to have, but at times a necessity.</p>
+
+<p>Parents are eager to have footage of their children for nostalgic purposes and to share on social media. Parents also live on busy schedules and often cannot attend every game. The athletes use video footage to create highlight reels of their successes for college recruitment. And lets be real, we all like to flex on the ‘gram.</p>
+
+<p>So what happens at most youth games? Mom and Pop pull out their iPhones and film, watching the live game through their iPhone, getting distracted talking to the people around them, missing the big goal. Or, for the higher budget games, hiring a professional videographer who outputs amazing videos but at a premium cost.</p>
+
+<p>But, videographers are people after all, and they cant make every sunday 9AM game your kid plays. They also need a few days to edit and upload the game. Bragging about your highlight from last week just isnt the same as sharing it right after the game.</p>
+
+<p>So back to Kav and Andy. They had an idea and they were ready to pounce on it. They wanted to build an intelligent camera that you can put on the side of a soccer field that would autonomously film the game the way a videographer would.</p>
+
+<p>Combined, they had the software and business acumen to start, but they needed an engineer with the hands on hardware development skills to really get started. And there we set out to create FieldVision, a company that would later sell autonomous game filming as a service to coaches, parents, and players across America.</p>
+
+<h2 id="abate-jr">Abate Jr.</h2>
+
+<p>In the early days, we tried a bunch of ideas, building multiple scrappy prototypes before landing on the final design.</p>
+
+<p>Our first attempt, lovingly named Abate Jr., was to have a two camera system, where one camera views the entire field, uses computer vision to determine where the players are, then pans another camera on top to the action. It kinda worked. I mean. It followed people, just a bit slower than real time.</p>
+
+<p><img src="/assets/hero-v2.jpg" alt="" /></p>
+
+<p>We went back to the drawing board and added some additional people to the team. A computer vision brainiac, internally known as Dr. Bri-Bri, and an all around software wiz, Mat (with one “t”).</p>
+
+<h2 id="enter-the-f1">Enter The F1</h2>
+
+<p>Instead of physically panning a camera with a motor, which would always require near instant processing to avoid missing the action, we started digitally panning on a 180 degree video of the field. By analyzing a few seconds of video at a time, the computer vision algorithm could accurately determine where players are, and where the zoomed in view should be looking.</p>
+
+<p>The biggest challenge to this approach was that by digitally zooming in on a 180 degree video, the image quality would suffer. To fix this, we used three 4k camera modules, pointed at the left goal, the center, and the right goal, then seamlessly stitched them together into one panoramic video.</p>
+
+<p><img src="/assets/stitched-video.png" alt="" />
+<em>Stitched 180 degree video from three cameras</em></p>
+
+<p><img src="/assets/zoomed-in-video.png" alt="" />
+<em>Digitally zoomed in view</em></p>
+
+<h2 id="the-hardware">The Hardware</h2>
+<p>At the core of the camera is the Nvidia Jetson TX2 module. The Nvidia Jetson TX2 enables the camera to capture and hardware encode 4k video from three cameras simultaneously. Using the powerful GPU, we stitch the videos in real time and run background subtraction to see where the players are.</p>
+
+<p><img src="/assets/f1-iso.jpg" alt="" /></p>
+
+<p>The weatherproof camera is designed with filming outdoors in mind. A large heatsink across the top, a double paned top piece, and light color scheme keeps the camera running under full day tournaments in direct sunlight.</p>
+
+<p>The result: We automated live streaming at high image quality across multiple sports. We built a system that can track players and automatically collect statistics, indoors and outdoors.</p>
+
+</div>
+
+    </div>
+
+  </body>
+</html>
