@@ -19,9 +19,3 @@ Zhe is the co-founder and CEO of <a href="https://www.perceptin.io">PerceptIn</a
 
 <p>&nbsp;</p>
 
-<strong>Further research recommended by Zhe:</strong>
-<ol>
- 	<li><a href="https://www.cis.upenn.edu/~kostas/mypub.dir/bowman17icra.pdf">Probabilistic Data Association for Semantic SLAM</a></li>
- 	<li><a href="http://mars.cs.umn.edu/papers/ICRA17_2722_FI-2.pdf">A Comparative Analysis of Tightly-coupled Monocular, Binocular, and Stereo VINS</a></li>
- 	<li><a href="https://arxiv.org/abs/1704.05519">Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art</a></li>
-</ol>
