@@ -1,16 +1,16 @@
 <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div class="container sidebar-sticky-top">
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
-          {{ site.title }}
+          {{ site.description }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <!-- <font size="3">{{ site.description }}</font> -->
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">HOME</a>-->
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -28,4 +28,13 @@
 
     </nav>
   </div>
+
+  <div class="container sidebar-sticky-bottom">
+      <p>
+      <a href="https://www.linkedin.com/in/abate-de-mey/" target="_blank">
+      <img border="0" alt="LinkedIn"  src="/assets/linkedin.png" width="25">
+      </a>
+      </p>
+  </div>
+
 </div>
