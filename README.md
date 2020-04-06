@@ -1,7 +1,7 @@
-# Personal Website for Abate
-This repository controls the content for my personal webpage found at [abatedemey.com](https://abatedemey.com). This website is hosted using github-pages. 
+# Personal Website
+This repository controls the content for my personal webpage found at [abatedemey.com](https://abatedemey.com). 
 
-The design of the webpage is based on the theme [Hyde](https://github.com/poole/hyde), an open source template. Development is done using [Jekyll](https://jekyllrb.com/docs/)
+This website is hosted using github-pages. The design of the webpage is based on the theme [Hyde](https://github.com/poole/hyde), an open source template used with [Jekyll](https://jekyllrb.com/docs/)
 
 ## Installation
 
