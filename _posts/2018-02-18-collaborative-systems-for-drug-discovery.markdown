@@ -14,6 +14,6 @@ I interview Peter Harris from HighRes Biosolutions about <a href="https://conten
 
 <img style="float: left; margin-right:30px;" src="/assets/peter-harris.jpg" alt="" width="200" height="200" />
 
-Peter Harris is the CEO of <a href="http://highresbio.com/">HighRes Biosolutions</a>. Prior to HighRes, Peter was VP and Managing Director at Axel Johnson, Inc. He spent most his career as the President &amp; CEO of Cadence, Inc., a medical device manufacturing and engineering firm enabling companies to bring devices to market faster.
+Peter Harris is the CEO of <a href="https://highresbio.com/">HighRes Biosolutions</a>. Prior to HighRes, Peter was VP and Managing Director at Axel Johnson, Inc. He spent most his career as the President &amp; CEO of Cadence, Inc., a medical device manufacturing and engineering firm enabling companies to bring devices to market faster.
 
 <p>&nbsp;</p>

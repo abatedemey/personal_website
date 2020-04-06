@@ -2,7 +2,7 @@
 layout: post
 title: RoboUniverse Conference - Agricultural Robotics
 ---
-Episode #220: <a href="http://robohub.org/robouniverse-conference-agricultural-robotics-part-1-of-2/">Robouniverse Conference - Agricultural Robotics</a>
+Episode #220: <a href="https://robohub.org/robouniverse-conference-agricultural-robotics-part-1-of-2/">Robouniverse Conference - Agricultural Robotics</a>
 
 ![biotac](/assets/biotac.jpg)
 ![softroboticsinc](/assets/softrobotics.jpg)
@@ -13,7 +13,7 @@ I interview two speakers from the Agricultural track of the RoboUniverse 2016 co
 <!--more-->
 <h3>Dan Harburg</h3>
 
-Dan Harburg is the Director of Business Development at <a href="http://www.softroboticsinc.com/">Soft Robotics Inc.</a>, a venture-backed startup company developing a soft end-of-arm tool for the food industry.
+Dan Harburg is the Director of Business Development at <a href="https://www.softroboticsinc.com/">Soft Robotics Inc.</a>, a venture-backed startup company developing a soft end-of-arm tool for the food industry.
 
 
 <h3>Matthew Borzage</h3>
