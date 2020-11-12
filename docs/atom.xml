@@ -4,13 +4,57 @@
  <title>Abate</title>
  <link href="https://abatedemey.github.io/personal_website/atom.xml" rel="self"/>
  <link href="https://abatedemey.github.io/personal_website/"/>
- <updated>2020-04-10T14:32:08-07:00</updated>
+ <updated>2020-11-11T20:08:15-08:00</updated>
  <id>https://abatedemey.github.io/personal_website</id>
  <author>
    <name>Abate De Mey</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Empowering Farmers through Root AI</title>
+   <link href="https://abatedemey.github.io/personal_website/2020/10/16/empowering-farmers-through-root-ai/"/>
+   <updated>2020-10-16T00:00:00-07:00</updated>
+   <id>https://abatedemey.github.io/personal_website/2020/10/16/empowering-farmers-through-root-ai</id>
+   <content type="html">&lt;p&gt;Episode #321: &lt;a href=&quot;https://robohub.org/empowering-farmers-through-rootai/&quot;&gt;Empowering Farmers through Root AI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://robohub.org/wp-content/uploads/2020/10/root_ai.jpg&quot; alt=&quot;&quot; width=&quot;1892&quot; height=&quot;1080&quot; class=&quot;aligncenter size-full wp-image-196506&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/913097575&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/robohubpodcast&quot; title=&quot;Robohub Podcast&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot; rel=&quot;noopener noreferrer&quot;&gt;Robohub Podcast&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/robohubpodcast/empowering-farmers-through-rootai&quot; title=&quot;Empowering Farmers Through Root AI&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot; rel=&quot;noopener noreferrer&quot;&gt;Empowering Farmers Through Root AI&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Josh Lessing, co-founder and CEO of Root AI, discusses a system they are developing that tracks data on the farm and autonomously harvests crops using delicate grippers and computer vision. Lessing talks about the path they took to build a product with good market fit and how they brought a venture capital backed startup to market.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Josh Lessing&lt;/strong&gt;
+&lt;img src=&quot;https://robohub.org/wp-content/uploads/2020/10/Josh_Lessing_200pix.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;200&quot; class=&quot;alignleft size-full wp-image-196507&quot; /&gt;
+Josh is one of the world’s leading minds on developing robotics and AI systems for the food industry, previously serving as the Director of R&amp;amp;D at Soft Robotics Inc. His current venture, Root AI, is integrating advanced robotics, vision systems and machine perception to automate agriculture. Josh was a Postdoctoral Fellow in Materials Science &amp;amp; Robotics at Harvard University, having earned his Ph.D. studying Biophysics &amp;amp; Physical Chemistry at the Massachusetts Institute of Technology and received an Sc.B. in Chemistry from Brown University.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Solid State Lidar - the 3D Camera</title>
+   <link href="https://abatedemey.github.io/personal_website/2020/06/29/solid-state-lidar/"/>
+   <updated>2020-06-29T00:00:00-07:00</updated>
+   <id>https://abatedemey.github.io/personal_website/2020/06/29/solid-state-lidar</id>
+   <content type="html">&lt;p&gt;Episode #313: &lt;a href=&quot;https://robohub.org/solid-state-lidar-the-3d-camera/&quot;&gt;Solid State Lidar - the 3D Camera&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://robohub.org/wp-content/uploads/2020/06/point-cloud-building.png&quot; alt=&quot;Sense Photonics&quot; width=&quot;960&quot; height=&quot;472&quot; class=&quot;aligncenter size-full wp-image-174238&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/848691523&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/robohubpodcast&quot; title=&quot;Robohub Podcast&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot; rel=&quot;noopener noreferrer&quot;&gt;Robohub Podcast&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/robohubpodcast/solid-state-lidar-the-3d-camera&quot; title=&quot;Solid State Lidar - The 3D Camera&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot; rel=&quot;noopener noreferrer&quot;&gt;Solid State Lidar - The 3D Camera&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Erin Bishop from Sense Photonics talks about the technology in their “Solid State” LiDAR sensors that allows them to detect objects more accurately and over a larger field of view than traditional scanning LiDAR. Erin dives into the technical details of Solid State Lidar, discusses the applications and industries of the technology.&lt;/p&gt;
+
+&lt;h3&gt;Erin Bishop&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://robohub.org/wp-content/uploads/2020/06/rapacki-headshot-portrait-resized.jpg&quot; alt=&quot;&quot; width=&quot;200&quot; height=&quot;299&quot; class=&quot;alignleft size-full wp-image-174243&quot; /&gt;
+Erin operates at the intersection of product management, project engineering, customer development, and product-market fit within 3D camera company Sense Photonics. Over the past several years, she has worked to initiate the market appetite for telepresence robots, indoor mobile robots, and robotic picking in warehouses. Erin has made appearances at CES, UX Week, RoboBusiness, HardwareCon, and Mobile Future Forward.&lt;/p&gt;
+
+&lt;p&gt;Erin creates partnerships that result in large-scale deployment of the company’s revolutionary solid-state FLASH architecture. Prior to joining Sense, she held product manager, marketing, and research roles with several robotics companies, including Industrial Perception, Inc. – which was acquired by Google in 2013 – Adept Technology, iRobot, and DEKA. Erin earned her Master’s in Mechanical Engineering from UMass Lowell, where she performed extensive research in Human-Robot Interaction.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Navigating with Microlocation</title>
