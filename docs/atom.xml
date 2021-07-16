@@ -4,13 +4,139 @@
  <title>Abate</title>
  <link href="https://abatedemey.github.io/personal_website/atom.xml" rel="self"/>
  <link href="https://abatedemey.github.io/personal_website/"/>
- <updated>2020-11-14T17:20:01-08:00</updated>
+ <updated>2021-07-16T12:59:35-07:00</updated>
  <id>https://abatedemey.github.io/personal_website</id>
  <author>
    <name>Abate De Mey</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Autonomous Aircraft, with Xwing</title>
+   <link href="https://abatedemey.github.io/personal_website/2021/07/12/autonomous-aircraft-xwing/"/>
+   <updated>2021-07-12T00:00:00-07:00</updated>
+   <id>https://abatedemey.github.io/personal_website/2021/07/12/autonomous-aircraft-xwing</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://robohub.org/wp-content/uploads/2021/07/xwing_Aircraft.jpg&quot; alt=&quot;xwing autonomous aircraft&quot; class=&quot;aligncenter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I spoke to Maxime Gariel, CTO of Xwing about the autonomous flight technology they are developing.&lt;/p&gt;
+
+&lt;p&gt;At Xwing, they are converting traditional aircraft into remotely operated aircraft. They do this by retrofitting planes with multiple sensors including cameras, radar, and lidar, and by developing sensor fusion algorithms to allow their planes to understand the world around them, using highly accurate perception algorithms.&lt;/p&gt;
+
+&lt;p&gt;Xwing’s autonomous flight technology allows a plane to taxi in the airport, takeoff, fly to a destination, avoid airborne and ground threats, and land, all without any human input. This technology not only enables autonomous flight but may also enhance the safety of manned aircraft by improving a plane’s ability to understand its surroundings.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Yb-zwh1SpHQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The unique challenges of operating in autonomously in the air piqued my interest. Unlike with self driving cars, when you are in the sky there are no features you can use to estimate depth and scale using video from a single camera. With objects flying towards you at hundreds of miles an hour, you need to be able to make those measurements rapidly. To solve this, they developed a sensor fusion package that combines video, radar, and ADS-B.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Maxime Gariel&lt;/strong&gt;
+&lt;img src=&quot;https://robohub.org/wp-content/uploads/2021/07/image003-1-290x290.jpg&quot; alt=&quot;&quot; width=&quot;290&quot; height=&quot;290&quot; style=&quot;float: left; margin-right:30px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Maxime Gariel is the CTO of Xwing, a San Francisco based startup whose mission is to dramatically increase human mobility using fully autonomous aerial vehicles. Xwing is developing a Detect-And-Avoid system for unmanned and remotely piloted vehicles. Maxime is a pilot but he is passionate about making airplanes fly themselves.&lt;/p&gt;
+
+&lt;p&gt;Maxime joined Xwing from Rockwell Collins where he was a Principal GNC Engineer. He worked on autonomous aircraft projects including DARPA Gremlins and the AgustaWestland SW4 Solo autonomous helicopter. Before becoming Chief Engineer of the SW4 Solo’s flight control system, he was in charge of the system architecture, redundancy, and safety for the project.&lt;/p&gt;
+
+&lt;p&gt;Before Rockwell Collins, he worked on ADS-B based conflict detection as a postdoc at MIT and on autoland systems for airliners at Thales. Maxime earned his MS and PhD in Aerospace Engineering from Georgia Tech and his BS from ISAE-Supaéro (France).&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CV and ML at the edge, with Intel RealSense</title>
+   <link href="https://abatedemey.github.io/personal_website/2021/06/10/intel-realsense/"/>
+   <updated>2021-06-10T00:00:00-07:00</updated>
+   <id>https://abatedemey.github.io/personal_website/2021/06/10/intel-realsense</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://robohub.org/wp-content/uploads/2021/06/Intel-RealSense-ID-2-scaled-1-1024x576.jpg&quot; alt=&quot;Intel RealSense Facial Scanning&quot; class=&quot;size-large&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Intel RealSense is known in the robotics community for its plug-and-play stereo cameras. These cameras make gathering 3D depth data a seamless process, with easy integrations into ROS to simplify the software development for your robots. From the RealSense team, Joel Hagberg talks about how they built this product, which allows roboticists to perform computer vision and machine learning at the edge.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GsDiqkz3_-8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Through Fluid Design Consultancy, we have come into contact with the RealSense line of products extensively. The ability to add an off the shelf component to instantly give us depth data is a win by itself. The ability to leverage an active, open source community that develops software packages on top of this to extract more value out of the product is magical.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Joel Hagberg&lt;/strong&gt;
+&lt;img src=&quot;https://robohub.org/wp-content/uploads/2021/06/Joel_Hagberg_Headshot_16A3639_SQ_Hi_Res-1-290x290.jpg&quot; alt=&quot;&quot; style=&quot;float: left; margin-right:30px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Joel Hagberg leads the Intel® RealSense™ Marketing. Product Management and Customer Support teams.  He joined Intel in 2018 after a few years as an Executive Advisor working with startups in the IoT, AI, Flash Array, and SaaS markets.  Before his Executive Advisor role, Joel spent two years as Vice President of Product Line Management at Seagate Technology with responsibility for their $13B product portfolio.  He joined Seagate from Toshiba, where Joel spent 4 years as Vice President of Marketing and Product Management for Toshiba’s HDD and SSD product lines.  Joel joined Toshiba with Fujitsu’s Storage Business acquisition, where Joel spent 12 years as Vice President of Marketing, Product Management, and Business Development.  Joel’s Business Development efforts at Fujitsu focused on building emerging market business units in Security, Biometric Sensors, H.264 HD Video Encoders, 10GbE chips, and Digital Signage.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Construction Site Automation, with Dusty Robotics</title>
+   <link href="https://abatedemey.github.io/personal_website/2021/03/12/construction-site-automation/"/>
+   <updated>2021-03-12T00:00:00-08:00</updated>
+   <id>https://abatedemey.github.io/personal_website/2021/03/12/construction-site-automation</id>
+   <content type="html">&lt;p&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;https://robohub.org/wp-content/uploads/2021/02/FieldPrinter-outside_2000x1500.jpg&quot; alt=&quot;FieldPrinter by Dusty Robotics&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I spoke to Tessa Lau on her startup Dusty Robotics which is innovating in the field of construction.&lt;/p&gt;
+
+&lt;p&gt;At Dusty Robotics, they developed a robot to automate the laying of floor plans on the floors in construction sites. Typically, this is done manually using a tape measure and reading printed out plans. This difficult task can often take a team of two a week to complete. Time-consuming tasks like this are incredibly expensive on a construction site where multiple different teams are waiting on this task to complete. Any errors in this process are even more time-consuming to fix. By using a robot to automatically convert 3d models of building plans into markings on the floors, the amount of time and errors are dramatically reduced.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YaU-oIb_R0o&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I reached out to Tessa originally because I loved their story for how they came up with this concept. By having her own house remodeled, Tessa had to interact with people in the construction industry on a personal level for the first time. In this process, she saw the multitude of subcontractors come in and out of her house and manually doing a multitude of things. Construction is an ever evolving, but incredibly anciant industry. Tessa knew there was room for optimization, but as an outsider she had to be careful and interview a multitude of experts in the field before offering a product in the space.&lt;/p&gt;
+
+&lt;p&gt;Eventually she chose to optimize the process of converting floorplans drawn on paper, to physically drawing them out on the floor. A time consuming task for a person that will always lead to cutting corners to get it done in the fastest, simplest way on a construction site.&lt;/p&gt;
+
+&lt;p&gt;By developing a robot to do this, she was able to add far more information to the floors, and far more accurately than a person would. This presents a step change in quality that makes the product something a construction manager would accept. The fact that this job is not tied to any one person, except likely the construction manager, means that buying this robot is not taking away anyones job, but instead adding value and saving critical time at a construciton site.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dr. Tessa Lau&lt;/strong&gt;
+&lt;img src=&quot;https://robohub.org/wp-content/uploads/2021/02/tlau21-290x290.jpg&quot; alt=&quot;&quot; style=&quot;float: left; margin-right:30px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dr. Tessa Lau is an experienced entrepreneur with expertise in AI, machine learning, and robotics. She is currently Founder/CEO at Dusty Robotics, a construction robotics company building robot-powered tools for the modern construction workforce. Prior to Dusty, she was CTO/co-founder at Savioke, where she orchestrated the deployment of 75+ delivery robots into hotels and high-rises. Previously, Dr. Lau was a Research Scientist at Willow Garage, where she developed simple interfaces for personal robots. She also spent 11 years at IBM Research working in business process automation and knowledge capture. More generally, Dr. Lau is interested in technology that gives people super-powers, and building businesses that bring that technology into people’s lives. Dr. Lau was recognized as one of the Top 5 Innovative Women to Watch in Robotics by Inc. in 2018 and one of Fast Company’s Most Creative People in 2015. Dr. Lau holds a PhD in Computer Science from the University of Washington.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Deep Sea Mining, with Pliant Energy Systems</title>
+   <link href="https://abatedemey.github.io/personal_website/2021/01/18/deep-sea-mining/"/>
+   <updated>2021-01-18T00:00:00-08:00</updated>
+   <id>https://abatedemey.github.io/personal_website/2021/01/18/deep-sea-mining</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://robohub.org/wp-content/uploads/2021/01/Pliant_Energy_Systems_blue_swarm_Filardo.jpeg&quot; alt=&quot;&quot; class=&quot;aligncenter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I followed up with Benjamin Pietro Filardo, founder of Pliant Energy Systems and NACROM, the North American Consortium for Responsible Ocean Mining. Pietro talks about the deep sea mining industry, an untapped market with a massive potential for growth. Pietro discusses the current proposed solutions for deep sea mining which are environmentally destructive, and he offers an alternative solution using swarm robots which could mine the depths of the ocean while creating minimal disturbance to this mysterious habitat.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/967923577&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/robohubpodcast&quot; title=&quot;Robohub Podcast&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot; rel=&quot;noopener noreferrer&quot;&gt;Robohub Podcast&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/robohubpodcast/deep-sea-mining&quot; title=&quot;Deep Sea Mining&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot; rel=&quot;noopener noreferrer&quot;&gt;Deep Sea Mining&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;What made me gravitate to doing a second interview with Pietro is that while talking to him about applications for his robot, I learned a lot about the potential for deep sea mining. The incredible amount of resources laying openly on the seafloor can fuel the battery powered selfless car revolution that is happening on the surface of the Earth. What is stopping us today is how extremely inaccesible this environment is to any type of operations, especially manned vehicles.&lt;/p&gt;
+
+&lt;p&gt;There is an industry that will open up around deep sea mining. It is not a question of “if”, but “when” technology can advance enough to do so.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Advantage of Fins, with Pliant Energy Systems</title>
+   <link href="https://abatedemey.github.io/personal_website/2020/12/16/the-advantage-of-fins/"/>
+   <updated>2020-12-16T00:00:00-08:00</updated>
+   <id>https://abatedemey.github.io/personal_website/2020/12/16/the-advantage-of-fins</id>
+   <content type="html">&lt;p&gt;Episode #321: &lt;a href=&quot;https://robohub.org/empowering-farmers-through-rootai/&quot;&gt;Empowering Farmers through Root AI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://robohub.org/wp-content/uploads/2020/12/Pliant_Energy_Velox_beach.jpg&quot; alt=&quot;&quot; class=&quot;aligncenter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Benjamin “Pietro” Filardo, CEO and founder of Pliant Energy Systems talks about the novel novel form of actuation they developed using two undulating fins on a robot.&lt;/p&gt;
+
+&lt;p&gt;These fins present multiple benefits over traditional propeller systems including excellent energy efficiency, low water turbulence, and an ability to maneuver in water, land, and ice. Aside from its benefits on a robot, Pietro also talks about its advantages for harnessing energy from moving water.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/948953797&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/robohubpodcast&quot; title=&quot;Robohub Podcast&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot; rel=&quot;noopener noreferrer&quot;&gt;Robohub Podcast&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/robohubpodcast/the-advantage-of-fins&quot; title=&quot;The Advantage of Fins&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot; rel=&quot;noopener noreferrer&quot;&gt;The Advantage of Fins&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;What I loved about this interview is how this product completes a full energy cycle. Not only is it able to move around in a low energy way, it is also able to generate its own energy. This paves the way for the robot to stay underwater indefinitely and sustainably, similar to aquatic creatures in the ocean.&lt;/p&gt;
+
+&lt;p&gt;The other aspect that struck me is its ability to operate in what could be considered a niche environment - the coastal waters between land and sea. I say it could be considered niche because it covers only a small portion of the earths surface, but if you consider how the majority of the worlds population is located next to a shoreline, this presents a massive part of how we interact with large bodies of water.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Benjamin “Pietro” Filardo&lt;/strong&gt;
+&lt;img src=&quot;https://robohub.org/wp-content/uploads/2020/12/pietro_filardo.jpg&quot; alt=&quot;&quot; style=&quot;float: left; margin-right:30px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After several years in the architectural profession, Pietro founded Pliant Energy Systems to explore renewable energy concepts he first pondered while earning his first degree in marine biology and oceanography.&lt;/p&gt;
+
+&lt;p&gt;With funding from four federal agencies he has broadened the application of these concepts into marine propulsion and a highly novel robotics platform.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Empowering Farmers through Root AI</title>
