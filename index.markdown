@@ -3,11 +3,11 @@ layout: home_page
 title: HOME
 ---
 
-I am passionate about Robotics, Internet of things, and computer vision systems. I geek out about the interface between hardware and software.
 
-I spent four years as the Founding Hardware Engineer at FieldVision. We built a camera that revolutionized the filming of sports. Read more about it [here](/F1_camera). I am continuing the mission at BallerTV where we are deploying autonomous filming solutions at scale.
+In the living room of my NYC apartment, fresh out of my Master's program, I partnered Kav & Andy to start FieldVision, a company would revolutionize how youth sports are filmed. 
 
-While doing my Masters in Robotics, I got an opportunity to volunteer at the [Robohub Podcast](https://robohub.org/podcast/). Since then, I have been conducting interviews with innovators in Robotics across the world.
+At FieldVision, we built an autonomous camera based on the NVIDIA Jetson called the [F1 Camera](/F1_camera). Using Machine Learning, we created an autonomous filming experience that would unlock filming youth sports at scale. 
 
-Check out my latest endeavor at [Fluid Design](https://www.fluid.design/). We are bringing our expertise in deploying embedded camera products to the world through our consulting services.
+Eventually, we pivoted and brought these algorithms onto an iPhone, where the power of a sports camera man was sitting in peoples pockets. 
 
+Now - Catch me at [CX](https://www.computex.dev/), where we make it dead simple to deploy AI models.
