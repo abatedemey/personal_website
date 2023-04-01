@@ -4,7 +4,7 @@
  <title>Abate</title>
  <link href="https://abatedemey.github.io/personal_website/atom.xml" rel="self"/>
  <link href="https://abatedemey.github.io/personal_website/"/>
- <updated>2023-03-17T22:56:08-07:00</updated>
+ <updated>2023-03-31T20:18:08-07:00</updated>
  <id>https://abatedemey.github.io/personal_website</id>
  <author>
    <name>Abate De Mey</name>
@@ -18,13 +18,9 @@
    <updated>2023-02-17T00:00:00-08:00</updated>
    <id>https://abatedemey.github.io/personal_website/2023/02/17/ep.364:-Shaking-Up-The-Sheetmetal-Industry,-with--Ed-Mehr</id>
    <content type="html">&lt;p&gt;&lt;img class=&quot;alignnone size-large wp-image-95833&quot; src=&quot;https://robohub.org/wp-content/uploads/2023/02/Machina-Logo-Forming-1024x668.jpeg &quot; alt=&quot;robohub cover image&quot; /&gt;
-Conventional sheet metal manufacturing is highly inefficient for the low-volume production seen in the space industry. At Machina Labs, they developed a novel method of forming sheet metal using two robotic arms to bend the metal into different geometries. This method cuts down the time to produce large sheet metal parts from several months down to a few hours. Ed Mehr, Co-Founder and CEO of Machina Labs, explains this revolutionary manufacturing process.&lt;/p&gt;
+Machina Labs uses a novel method of sheet metal forming with two robotic arms, drastically reducing production time from months to hours. Co-founder and CEO Ed Mehr has an engineering background in smart manufacturing and artificial intelligence, previously leading the development of the world’s largest metal 3D printer at Relativity Space. He has also worked at SpaceX, Google, and Microsoft and was previously the CTO at Cloudwear (now Averon).&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ULrld1ti-0I&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;Ed Mehr&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Ed Mehr is the co-founder and CEO of Machina Labs. He has an engineering background in smart manufacturing and artificial intelligence. In his previous position at Relativity Space, he led a team in charge of developing the world’s largest metal 3D printer. Relativity Space uses 3D printing to make rocket parts rapidly, and with the flexibility for multiple iterations. Ed previously was the CTO at Cloudwear (Now Averon), and has also worked at SpaceX, Google, and Microsoft.&lt;/p&gt;
 
 </content>
  </entry>
@@ -35,8 +31,7 @@ Conventional sheet metal manufacturing is highly inefficient for the low-volume 
    <updated>2022-12-21T00:00:00-08:00</updated>
    <id>https://abatedemey.github.io/personal_website/2022/12/21/ep.363-Going-out-on-a-Bionic-Limb-with-Joel-Gibbard</id>
    <content type="html">&lt;p&gt;&lt;img class=&quot;alignnone size-large wp-image-95833&quot; src=&quot;https://robohub.org/wp-content/uploads/2022/12/openbionics2-1024x968.jpeg &quot; alt=&quot;robohub cover image&quot; /&gt;
-Joel Gibbard, co-founder of Open Bionics dives deep into their creative, imagination-capturing prosthetic limbs.&lt;/p&gt;
-
+Prosthetic limbs are often associated with either nude-colored imitations of human limbs or high-tech models optimized for athletes. But what about a third category that captures the fun and imagination of children while still meeting functional requirements? That’s where Open Bionics comes in, founded by Joel Gibbard and Samantha Payne. Through partnerships with Disney and Lucasfilms, Open Bionics has created a line of cool and inspiring prosthetic limbs. Joel Gibbard, a robotics graduate from the University of Plymouth, UK, co-founded Open Bionics with the goal of revolutionizing the industry with accessible and advanced bionic arms. Ready to invest in their mission? Joel shares why you should be.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UyIcwNjZWJU&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </content>
  </entry>
@@ -47,8 +42,7 @@ Joel Gibbard, co-founder of Open Bionics dives deep into their creative, imagina
    <updated>2022-10-10T00:00:00-07:00</updated>
    <id>https://abatedemey.github.io/personal_website/2022/10/10/ep.361-Recycling-An-Opaque-Industry-with-Areeb-Malik</id>
    <content type="html">&lt;p&gt;&lt;img class=&quot;alignnone size-large wp-image-95833&quot; src=&quot;https://robohub.org/wp-content/uploads/2022/10/glacier_robot-1024x715.jpeg &quot; alt=&quot;robohub cover image&quot; /&gt;
-Areeb, the co-founder of Glacier, gives some insight into the opaque recycling industry, and why it is unable to handle the volume of recyclable good Americans through out each year.&lt;/p&gt;
-
+Did you know that the recycling industry in the US is a profitable venture? They take recyclable material, refine it, and sell it back to companies at a cheaper price than producing the material from scratch. But with ~300 million tons of trash generated annually in the US, up to 75% of which is recyclable, why aren’t we maximizing recycling efforts? Less than a third of the trash actually gets recycled. Co-founder of Glacier, Areeb, dives into the complex reasons behind this and shares how Glacier is tackling the issue head-on.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/389pabvhve4&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </content>
  </entry>
@@ -59,8 +53,7 @@ Areeb, the co-founder of Glacier, gives some insight into the opaque recycling i
    <updated>2022-09-14T00:00:00-07:00</updated>
    <id>https://abatedemey.github.io/personal_website/2022/09/14/ep.360-Building-Communities-Around-AI-in-Africa-with-Benjamin-Rosman</id>
    <content type="html">&lt;p&gt;&lt;img class=&quot;alignnone size-large wp-image-95833&quot; src=&quot;https://robohub.org/wp-content/uploads/2022/09/crowd-1920x1188-1-1024x634.jpeg &quot; alt=&quot;robohub cover image&quot; /&gt;
-Deep Learning Indaba is an organization that empowers and builds communities around Artificial Intelligence and Machine Learning across Africa. Benjamin Rosman dives into how Deep Learning Indaba is impacting these communities.&lt;/p&gt;
-
+Benjamin Rosman, co-founder of Deep Learning Indaba, presented at ICRA 2022 on their mission to strengthen AI and ML communities across Africa. Based in South Africa, Deep Learning Indaba hosts annual meetups in different countries and encourages grassroots communities to run their own local events. Join the movement to boost AI and ML in Africa!&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JyH8duuxchc&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </content>
  </entry>
@@ -71,7 +64,7 @@ Deep Learning Indaba is an organization that empowers and builds communities aro
    <updated>2022-08-03T00:00:00-07:00</updated>
    <id>https://abatedemey.github.io/personal_website/2022/08/03/ep.358-Softbank-How-Large-Companies-Approach-Robotics-with-Brady-Watkins</id>
    <content type="html">&lt;p&gt;&lt;img class=&quot;alignnone size-large wp-image-95833&quot; src=&quot;https://robohub.org/wp-content/uploads/2022/08/softbank_robots-1024x527.png &quot; alt=&quot;robohub cover image&quot; /&gt;
-Brady Watkins gives insights into how a large company like Softbank Robotics approaches the Robotics market&lt;/p&gt;
+SoftBank Robotics aims to create value for humanity through robotics and AI technology. Their focus is on scalable industries with gaps in task-to-service value, such as the cleaning industry, which is dominated by a workforce. Whiz, an indoor, mobile, autonomous vacuum cleaner, is SoftBank Robotics’ product that best personifies their mission. By automating single tasks, the workforce can uplevel itself and evolve from a transformation perspective, while providing better and safer environments for the workforce. SoftBank Robotics provides a proof of performance and creates efficiency, allowing for a more frequent clean and creating less risk of an unsafe environment. This creates opportunities in industries like hospitality, senior living, and education.&lt;/p&gt;
 </content>
  </entry>
  
@@ -81,7 +74,7 @@ Brady Watkins gives insights into how a large company like Softbank Robotics app
    <updated>2022-07-01T00:00:00-07:00</updated>
    <id>https://abatedemey.github.io/personal_website/2022/07/01/ep.357-Origin-Story-of-the-OAK-D-with-Brandon-Gilles</id>
    <content type="html">&lt;p&gt;&lt;img class=&quot;alignnone size-large wp-image-95833&quot; src=&quot;https://robohub.org/wp-content/uploads/2022/06/Screen-Shot-2022-06-29-at-12.34.50-AM-1024x564.png &quot; alt=&quot;robohub cover image&quot; /&gt;
-Brandon Gilles, the founder of Luxonis and maker of the OAK-D, describes the journey and the flexibility of the OAK-D line of products&lt;/p&gt;
+Luxonis’ Founder and CEO, Brandon Gilles, shares how his team created the versatile OAK-D perception platform. With expertise in embedded hardware and software, Gilles leveraged his experience from Ubiquiti, a company that transformed networking with network-on-a-chip architectures. The OAK-D, which uses Intel Myriad X for power-efficient perception computations, offers more than just depth sensing capabilities. It also provides access to open-source computer vision and AI packages pre-calibrated to the optics system. Thanks to its system-on-a-module design, Luxonis can easily produce various hardware platform variations to fit customers’ needs. Stay tuned for more updates.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_nH_s7KIkkM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </content>
@@ -93,7 +86,7 @@ Brandon Gilles, the founder of Luxonis and maker of the OAK-D, describes the jou
    <updated>2022-04-08T00:00:00-07:00</updated>
    <id>https://abatedemey.github.io/personal_website/2022/04/08/ep.349-Autonomous-Need-for-Speed-with-Joe-Speed</id>
    <content type="html">&lt;p&gt;&lt;img class=&quot;alignnone size-large wp-image-95833&quot; src=&quot;https://robohub.org/wp-content/uploads/2022/04/ApexAi_cover_photo-1024x577.jpg &quot; alt=&quot;robohub cover image&quot; /&gt;
-Joe Speed, VP of Product at ApexAI, dives into the current multi-year development process of bringing a car to market, and how ApexAI will transform this process into the shorter development time we see with modern technology.&lt;/p&gt;
+ApexAI is improving ROS2 for use in autonomous vehicles and bridging the gap between the automotive and robotics industries. They aim to shorten the current multi-year development process with their technology showcased at the Indy Autonomous Challenge. Apex.OS is a certified software framework and SDK that enables developers to create safe and certified autonomous driving applications compatible with ROS2.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OldxjlzyyOk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </content>
@@ -105,8 +98,9 @@ Joe Speed, VP of Product at ApexAI, dives into the current multi-year developmen
    <updated>2022-03-08T00:00:00-08:00</updated>
    <id>https://abatedemey.github.io/personal_website/2022/03/08/ep.347-Event-Cameras-–-An-Evolution-in-Visual-Data-Capture-with-Davide-Scaramuzza</id>
    <content type="html">&lt;p&gt;&lt;img class=&quot;alignnone size-large wp-image-95833&quot; src=&quot;https://robohub.org/wp-content/uploads/2022/03/davide-scaramuzza-1024x703.jpg &quot; alt=&quot;robohub cover image&quot; /&gt;
-Davide Scaramuzza deep dives into Event Cameras, a fundamentally new approach to capturing visual data&lt;/p&gt;
+Davide Scaramuzza discusses Event Cameras, a step-change in camera innovation that has the potential to accelerate vision-based robotics applications. Event Cameras operate differently from traditional cameras, unlocking benefits such as extremely high-speed imaging, removal of the concept of “framerate”, and low power consumption.&lt;/p&gt;
 
+&lt;p&gt;One of my favorite emerging technologies with a ton of promise for perception.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-Tthu0D4dps&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </content>
  </entry>
