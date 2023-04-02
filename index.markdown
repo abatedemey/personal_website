@@ -4,10 +4,10 @@ title: HOME
 ---
 
 
-In the living room of my NYC apartment, fresh out of my Master's program, I partnered Kav & Andy to start FieldVision, a company would revolutionize how youth sports are filmed. 
+In the living room of my NYC apartment, I partnered Kav & Andy to start a company would revolutionize how youth sports are filmed. 
 
-At FieldVision, we built an autonomous camera based on the NVIDIA Jetson called the [F1 Camera](/F1_camera). Using Machine Learning, we created an autonomous filming experience that would unlock filming youth sports at scale. 
+We built a camera powered by an NVIDIA Jetson called the [F1 Camera](/F1_camera). We leveraged Machine Learning at the edge to create an automated filming experience that would unlock filming youth sports at scale. 
 
-Eventually, we pivoted and brought these algorithms onto an iPhone, where the power of a sports camera man was sitting in peoples pockets. 
+Eventually we brought these algorithms onto an iPhone, bringing real time game analytics to peoples pockets. 
 
-Now - Catch me at [CX](https://www.computex.dev/), where we make it dead simple to deploy AI models.
+Now - Catch me at [CX](https://www.computex.dev/), where we make deploying AI models dead simple.
