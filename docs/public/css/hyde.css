@@ -81,7 +81,7 @@ html {
   color: #fff;
   margin-top: 0rem;
   font-family: "Work Sans", sans-serif;
-  font-size: 4rem;
+  font-size: 5rem;
   font-weight: bold;
 }
 
@@ -94,7 +94,7 @@ html {
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 4;
+  line-height: 2.5;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
