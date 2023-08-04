@@ -3,11 +3,12 @@ layout: home_page
 title: HOME
 ---
 
-
 In the living room of my NYC apartment, I partnered Kav & Andy to start a company would revolutionize how youth sports are filmed. 
 
-We built a camera powered by an NVIDIA Jetson called the [F1 Camera](/F1_camera). We leveraged Machine Learning at the edge to create an automated filming experience that would unlock filming youth sports at scale. 
+We built the [F1 Camera](/F1_camera) powered by an NVIDIA Jetson TX2, to film sports games without a cameraman. 
 
-Eventually we brought these algorithms onto an iPhone, bringing real time game analytics to peoples pockets. 
+Ball and player detection running locally on the camera cut the costs of filming a sports game by an order of magnitude
 
-Now - Catch me at [CX](https://www.computex.dev/), where we make deploying AI models dead simple.
+Then, we did it again at BallerTV, where we ran the same automated filming algorithms on an iPhone, unlocking the ability to **film youth sports at scale**.
+
+Now - catch me on my founders journey, continuing to create value.

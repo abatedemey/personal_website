@@ -5,7 +5,7 @@ This website is hosted using github-pages. The design of the webpage is based on
 
 ## Installation
 
-sudo apt-get install ruby ruby-all-dev
+`sudo apt-get install ruby ruby-all-dev`
 
 ## Ruby exports
 `export GEM_HOME=$HOME/gems`
@@ -13,6 +13,8 @@ sudo apt-get install ruby ruby-all-dev
 `export PATH=$HOME/gems/bin:$PATH`
 
 `gem install jekyll-paginate`
+
+`gem install jekyll bundler`
 
 https://jekyllrb.com/docs/
 
