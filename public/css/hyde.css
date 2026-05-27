@@ -66,7 +66,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 13.5rem;
+    width: 17.82rem;
     text-align: left;
   }
 }
@@ -81,7 +81,7 @@ html {
   color: #fff;
   margin-top: 0rem;
   font-family: "Work Sans", sans-serif;
-  font-size: 5rem;
+  font-size: 3.5rem;
   font-weight: bold;
 }
 
@@ -139,7 +139,7 @@ html {
 @media (min-width: 48em) {
   .content {
     max-width: 60rem;
-    margin-left: 20rem;
+    margin-left: 24.32rem;
     margin-right: 2rem;
   }
 }
