@@ -3,26 +3,20 @@ This repository controls the content for my personal webpage found at [abatedeme
 
 This website is hosted using github-pages. The design of the webpage is based on the theme [Hyde](https://github.com/poole/hyde), an open source template used with [Jekyll](https://jekyllrb.com/docs/)
 
-## Installation
+## Local Setup
+1. Ensure Ruby is installed (`ruby -v`).
+2. Run:
+   - `_scripts/setup_jekyll.sh`
+3. (Optional) Add user gem bin to PATH for easier `bundle` usage:
+   - `export PATH="$HOME/.gem/ruby/$(ruby -e 'print RbConfig::CONFIG["ruby_version"]')/bin:$PATH"`
 
-`sudo apt-get install ruby ruby-all-dev`
-
-## Ruby exports
-`export GEM_HOME=$HOME/gems`
-
-`export PATH=$HOME/gems/bin:$PATH`
-
-`gem install jekyll-paginate`
-
-`gem install jekyll bundler`
-
-https://jekyllrb.com/docs/
+This installs a repo-local Bundler environment in `vendor/bundle`.
 
 ## Developing
-`jekyll build`
-
-`jekyll serve`
+- Build once:
+  - `bundle exec jekyll build`
+- Run local server:
+  - `bundle exec jekyll serve`
 
 ## Publishing
-`jekyll build --destination docs/`
-
+- `bundle exec jekyll build --destination docs/`
