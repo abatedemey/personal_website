@@ -7,11 +7,11 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Abate
-tagline:          'Robotics Engineer'
-description:      'A.'
+title:            'Abate De Mey'
+tagline:          'Founder, ClinicOS'
+description:      'Abate De Mey'
 baseurl:          /
-url:              https://abatedemey.github.io/personal_website
+url:              https://abatedemey.com
 
 author:
   name:           'Abate De Mey'
@@ -24,3 +24,17 @@ paginate_path:   "/robohub_posts/page:num/"
 version:          2.1.0
 
 plugins:          [jekyll-paginate]
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Makefile
+  - WEBSITE_STRATEGY.md
+  - _scripts
+  - docs
+  - .bundle
