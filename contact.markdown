@@ -11,6 +11,6 @@ The fastest way to reach me is email or LinkedIn.
 - **LinkedIn** — [@abate-de-mey](https://www.linkedin.com/in/abate-de-mey/)
 - **Twitter / X** — [@AbateDeMey](https://twitter.com/AbateDeMey)
 
-Open to founder-to-founder intros, hiring, press, and partnerships.
+For introductions, hiring, press, or partnerships, send me an email.
 
-For **ClinicOS** demos and product questions, head to [clinicos.com](https://clinicos.com) — that's where the team lives.
+For **ClinicOS** demos and product questions, visit [clinicos.ai](https://clinicos.ai).

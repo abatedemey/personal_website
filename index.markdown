@@ -5,24 +5,16 @@ title: HOME
 
 <p style="font-size:60px; margin-bottom:0.2em; line-height:1.1;">Hi, I'm Abate.</p>
 
-I'm building **[ClinicOS](https://clinicos.com)** — the software layer modern plastic surgery practices run on.
+I'm the founder of **[ClinicOS](https://clinicos.ai)**. We build software for plastic surgery practices, bringing patient acquisition, consultations, and day-to-day operations into one place.
 
-Before this: robotics, computer vision, and a few startups. Now, every working hour goes into ClinicOS.
-
-## What I'm building
-
-ClinicOS connects patient acquisition, consultation workflows, and clinical operations in one system — built alongside the surgeons who use it.
-
-→ [clinicos.com](https://clinicos.com)
-
-## Why this, why now
-
-Plastic surgery practices own the patient relationship end-to-end, but the software they run on is fragmented and dated. AI only compounds when it lives in one system, not five.
+Previously, I worked on automated sports filming at FieldVision and BallerTV. My background is in robotics and computer vision.
 
 ## Previously
 
-Founding team at **FieldVision** ([F1 Camera](/F1_camera), an autonomous filming rig on the NVIDIA Jetson TX2), then **BallerTV** (same algorithms on iPhones). MSc Robotics, University of Bristol — [dissertation](/masters-dissertation) on absolute position sensing.
+At **FieldVision**, I was part of the founding team that built the [F1 Camera](/F1_camera), an autonomous filming rig on the NVIDIA Jetson TX2. At **BallerTV**, I worked on getting the same algorithms running on iPhones.
+
+I studied robotics at the **University of Bristol**, where my MSc [dissertation](/masters-dissertation) focused on absolute position sensing.
 
 ## Get in touch
 
-[Email](mailto:abatedemey@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abate-de-mey/). For ClinicOS demos: [clinicos.com](https://clinicos.com).
+[Email](mailto:abatedemey@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abate-de-mey/). For ClinicOS demos: [clinicos.ai](https://clinicos.ai).
